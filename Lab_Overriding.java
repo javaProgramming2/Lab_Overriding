@@ -65,4 +65,4 @@ class PartTimeEmployee extends Employee
 
 //Code Review
 //Reviewed by:Zulaikha Y
-//Status: Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working :)
+//Status: Checked code. Inheritance (`extends`), Scanner input, and the employee salary calculations are all correct and working :)
